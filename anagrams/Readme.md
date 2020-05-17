@@ -7,6 +7,6 @@ or punctuation. Consider capital letters to be the same as lower case
 
 ### --- Examples
 
-anagrams('rail safety', 'fairy tales') --> True
-anagrams('RAIL! SAFETY!', 'fairy tales') --> True
-anagrams('Hi there', 'Bye there') --> False
+<br/>anagrams('rail safety', 'fairy tales') --> True
+<br/>anagrams('RAIL! SAFETY!', 'fairy tales') --> True
+<br/>anagrams('Hi there', 'Bye there') --> False
