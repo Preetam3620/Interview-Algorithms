@@ -22,6 +22,7 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`steps`](steps/index.js) : Print steps of n level.
 -   [`vowels`](vowels/index.js) : Return the number of vowels from given string.
 -   [`weave`](weave/index.js) : Merge the contents of two queues alternatively.
+-   [`qfroms`](qfroms/index.js) : Queue data structure using two stacks
 
 ## Data Structures
 
