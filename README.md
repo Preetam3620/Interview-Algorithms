@@ -15,6 +15,7 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`maxchar`](maxchar/index.js) : Find the most occuring character in the string.
 -   [`palindrome`](palindrome/index.js) : Find if the string is palindrome or not.
 -   [`pyramid`](pyramid/index.js) : Print pyramid of level n.
+-   [`qfroms`](qfroms/index.js) : Queue data structure using two stacks
 -   [`recursion101`](recursion101/index.js) : Basics of recursion.
 -   [`reverseInteger`](reverseInteger/index.js) : Reverse the given integer.
 -   [`reversestring`](reversestring/index.js) : Reverse the given string.
@@ -22,7 +23,6 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`steps`](steps/index.js) : Print steps of n level.
 -   [`vowels`](vowels/index.js) : Return the number of vowels from given string.
 -   [`weave`](weave/index.js) : Merge the contents of two queues alternatively.
--   [`qfroms`](qfroms/index.js) : Queue data structure using two stacks
 
 ## Data Structures
 
@@ -30,6 +30,7 @@ A data structure is a particular way of organizing data in a computer so that it
 
 -   [Queue](queue/index.js)
 -   [Stack](stack/index.js)
+-   [Linked List](linkedlist/index.js)
 
 ## How to use this repository
 
