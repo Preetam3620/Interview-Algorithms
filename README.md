@@ -9,10 +9,12 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`anagrams`](algorithms/anagrams/index.js) : Check to see if two provided strings are anagrams of each other.
 -   [`arrayChunk`](algorithms/arrayChunk/index.js) : Given an array and chunk size, divide the array into many subarrays.
 -   [`capitalize`](algorithms/capitalize/index.js) : Capitalize the first letter of each word in the string.
+-   [`circular`](algorithms/circular/index.js) : Check to see if provided linked list is circular or not.
 -   [`countlen`](algorithms/countlen/index.js) : Count the length of the string.
 -   [`fibonacci`](algorithms/fibonacci/index.js) : Print the n-th entry of the fibonacci number.
 -   [`fizzbuzz`](algorithms/fizzbuzz/index.js) : Check if a number is fizz, buzz or fizzbuzz.
 -   [`maxchar`](algorithms/maxchar/index.js) : Find the most occuring character in the string.
+-   [`midpoint`](algorithms/midpoint/index.js) : Find the midpoint of a linked list.
 -   [`palindrome`](algorithms/palindrome/index.js) : Find if the string is palindrome or not.
 -   [`pyramid`](algorithms/pyramid/index.js) : Print pyramid of level n.
 -   [`qfroms`](algorithms/qfroms/index.js) : Queue data structure using two stacks
