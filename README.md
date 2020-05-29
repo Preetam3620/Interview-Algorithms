@@ -28,9 +28,9 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 
 A data structure is a particular way of organizing data in a computer so that it can be used effectively.
 
--   [Queue](data-stuctures/queue/index.js)
--   [Stack](data-stuctures/stack/index.js)
--   [Linked List](data-stuctures/linkedlist/index.js)
+-   [Queue](data-structures/queue/index.js)
+-   [Stack](data-structures/stack/index.js)
+-   [Linked List](data-structures/linkedlist/index.js)
 
 ## How to use this repository
 
