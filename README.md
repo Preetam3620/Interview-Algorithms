@@ -13,7 +13,7 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`countlen`](algorithms/countlen/index.js) : Count the length of the string.
 -   [`fibonacci`](algorithms/fibonacci/index.js) : Print the n-th entry of the fibonacci number.
 -   [`fizzbuzz`](algorithms/fizzbuzz/index.js) : Check if a number is fizz, buzz or fizzbuzz.
--       [`fromlast`](algorithms/fromlast/index.js) : Find the node that is n spaces from the last node.
+-   [`fromlast`](algorithms/fromlast/index.js) : Find the node that is n spaces from the last node.
 -   [`maxchar`](algorithms/maxchar/index.js) : Find the most occuring character in the string.
 -   [`midpoint`](algorithms/midpoint/index.js) : Find the midpoint of a linked list.
 -   [`palindrome`](algorithms/palindrome/index.js) : Find if the string is palindrome or not.
@@ -34,6 +34,7 @@ A data structure is a particular way of organizing data in a computer so that it
 -   [Queue](data-structures/queue/index.js)
 -   [Stack](data-structures/stack/index.js)
 -   [Linked List](data-structures/linkedlist/index.js)
+-   [Tree](data-structures/tree/index.js)
 
 ## How to use this repository
 
