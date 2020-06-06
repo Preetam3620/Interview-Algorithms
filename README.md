@@ -36,6 +36,7 @@ A data structure is a particular way of organizing data in a computer so that it
 -   [Stack](data-structures/stack/index.js)
 -   [Linked List](data-structures/linkedlist/index.js)
 -   [Tree](data-structures/tree/index.js)
+-   [Binary Search Tree](data-structures/bst/index.js)
 
 ## How to use this repository
 
