@@ -25,6 +25,7 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`reversestring`](algorithms/reversestring/index.js) : Reverse the given string.
 -   [`spiralmatrix`](algorithms/spiralmatrix/index.js) : Return n \* n spiral matrix.
 -   [`steps`](algorithms/steps/index.js) : Print steps of n level.
+-   [`validate`](algorithms/validate/index.js) : Validate the given binary search tree
 -   [`vowels`](algorithms/vowels/index.js) : Return the number of vowels from given string.
 -   [`weave`](algorithms/weave/index.js) : Merge the contents of two queues alternatively.
 
