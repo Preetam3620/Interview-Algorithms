@@ -11,6 +11,7 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`capitalize`](algorithms/capitalize/index.js) : Capitalize the first letter of each word in the string.
 -   [`circular`](algorithms/circular/index.js) : Check to see if provided linked list is circular or not.
 -   [`countlen`](algorithms/countlen/index.js) : Count the length of the string.
+-   [`events`](algorithms/events/index.js) : Create javascript 'eventing' library.
 -   [`fibonacci`](algorithms/fibonacci/index.js) : Print the n-th entry of the fibonacci number.
 -   [`fizzbuzz`](algorithms/fizzbuzz/index.js) : Check if a number is fizz, buzz or fizzbuzz.
 -   [`fromlast`](algorithms/fromlast/index.js) : Find the node that is n spaces from the last node.
