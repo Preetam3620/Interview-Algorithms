@@ -24,6 +24,7 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 -   [`recursion101`](algorithms/recursion101/index.js) : Basics of recursion.
 -   [`reverseInteger`](algorithms/reverseInteger/index.js) : Reverse the given integer.
 -   [`reversestring`](algorithms/reversestring/index.js) : Reverse the given string.
+-   [`sorting`](algorithms/sorting/index.js) : Bubble Sort, Selection Sort, Merge Sort.
 -   [`spiralmatrix`](algorithms/spiralmatrix/index.js) : Return n \* n spiral matrix.
 -   [`steps`](algorithms/steps/index.js) : Print steps of n level.
 -   [`validate`](algorithms/validate/index.js) : Validate the given binary search tree
